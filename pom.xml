@@ -397,19 +397,19 @@ under the License.
                 <version>${commons-compress.version}</version>
             </dependency>
 
-            <!-- For dependency convergence  -->
+           <!-- &lt;!&ndash; For dependency convergence  &ndash;&gt;
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
                 <version>3.14.0</version>
             </dependency>
 
-            <!-- For dependency convergence  -->
+            &lt;!&ndash; For dependency convergence  &ndash;&gt;
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
                 <version>2.15.1</version>
-            </dependency>
+            </dependency>-->
 
             <!-- For dependency convergence -->
 
